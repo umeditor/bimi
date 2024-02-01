@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.2 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.2/DTD/svg12-tiny.dtd">
+<svg width="100px" height="100px" version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg">
+  <!-- Upper left triangle in white -->
+  <polygon points="0,0 100,0 0,100" fill="white"/>
+
+  <!-- Lower right triangle in orange -->
+  <polygon points="100,100 100,0 0,100" fill="#FF5722"/>
+</svg>
